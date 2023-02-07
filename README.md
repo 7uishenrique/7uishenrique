@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu perfil 😁
 Olá, me chamo Luis Henrique 
 
-Sempre curti filmes de ficção, cyberpunk, games; isso me levou ao design de artes graficas e as linhas de códigos, 
+Sempre curti filmes de ficção, cyberpunk, games; isso me levou ao design de artes gráficas e as linhas de códigos, 
 hoje estou empenhado e me aperfeiçoando na área da programação, com o objetivo de fazer parte de grandes projetos 
 e contribuir com o avanço de novas tecnologias.
 
